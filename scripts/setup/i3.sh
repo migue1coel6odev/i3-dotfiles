@@ -1,1 +1,1 @@
-sudo pacman -S rofi kitty
+sudo pacman -S rofi kitty feh nautilus brightnessctl parcellite dunst flameshot redshift network-manager-applet polybar xorg-xinput xss-lock
