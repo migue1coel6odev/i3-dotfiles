@@ -1,0 +1,8 @@
+[package]
+name = "install_script"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dialoguer = "0.11.0"
+tui = "0.19.0"

@@ -116,7 +116,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Custom alias
-alias ws="cd ~/Dev && ls"
+alias ws="cd ~/Dev && ll"
 alias apps="cd ~/Apps && ls"
 alias hyprfig="cd ~/hypr-dotfiles && ls"
 alias opendbeaver="export GDK_SCALE=1; export GDK_DPI_SCALE=1; export GDK_BACKEND=x11; nohup dbeaver &"
